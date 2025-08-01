@@ -13,7 +13,7 @@ A modern, responsive web resume built with HTML5 and CSS3. This project showcase
 
 ## 🚀 Live Demo
 
-Visit the live website: [https://Chandan98S.github.io/resume-website](https://Chandan98S.github.io/resume-website)
+Visit the live website: [https://Chandan98S.github.io/Web-Resume](https://Chandan98S.github.io/Web-Resume)
 
 ## 📂 Project Structure
 
